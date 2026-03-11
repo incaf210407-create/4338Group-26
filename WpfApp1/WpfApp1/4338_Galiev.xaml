@@ -3,7 +3,7 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         Title="Об авторе" Height="200" Width="300">
     <Grid>
-        <TextBlock Text="Имя: Галиев, Возраст: 20" 
+        <TextBlock Text="Имя: Галиdев, Возраст: 20" 
                    FontSize="16" 
                    HorizontalAlignment="Center" 
                    VerticalAlignment="Center"/>

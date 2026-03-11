@@ -17,7 +17,7 @@ namespace WpfApp1
 {
     /// <summary>
     /// Логика взаимодействия для MainWindow.xaml
-    /// </summary>
+    /// </summay>
     public partial class MainWindow : Window
     {
         public MainWindow()
