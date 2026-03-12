@@ -7,5 +7,9 @@
                    FontSize="16" 
                    HorizontalAlignment="Center" 
                    VerticalAlignment="Center"/>
+        <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center">
+            <Button Content="Импорт данных" Click="ImportData_Click" Width="150" Height="30" Margin="10"/>
+            <Button Content="Экспорт в Excel" Click="ExportData_Click" Width="150" Height="30" Margin="10"/>
+        </StackPanel>
     </Grid>
 </Window>
